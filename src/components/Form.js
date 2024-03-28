@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function Form() {
   const [companySize, setCompanySize] = useState('');
-  const [hasDedicatedResources, setHasDedicatedResources] = useState(false);
+  const [hasDedicatedResources, setHasDedicatedResources] = useState('');
   const [collaborateWithOthers, setCollaborateWithOthers] = useState(false);
 
   const handleSubmit = (event) => {
