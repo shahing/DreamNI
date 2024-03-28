@@ -1,2 +1,2 @@
-# DreamNI
+# DreamNI ✨
 Dreaming during PowerHack
